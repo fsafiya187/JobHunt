@@ -23,7 +23,7 @@ Built using HTML, CSS, and JavaScript, JobHunt focuses on usability, performance
 
 ## 🖼 Demo  
 
-👉 Live Demo: #  
+👉 Live Demo: https://fsafiya187.github.io/JobHunt/
 
 ---
 
